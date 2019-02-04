@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb  4 00:42:07 2019
-
-@author: chira
-"""
 #multiples of 3 and 5"#
 var_1 = 0
 var_2 = 0
