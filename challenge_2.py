@@ -1,4 +1,4 @@
-#challenge_2#
+#Even Fibonacci numbers#
 fibb1 = 1
 fibb2 = 2
 sum = 2
